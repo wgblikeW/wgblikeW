@@ -17,4 +17,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          SHOW_TIME: false
+          SHOW_TIME: true
