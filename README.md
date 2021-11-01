@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 📫 My Blog: https://wgblikew.github.io/P1nant0m/
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=wgblikeW&layout=compact&show_icons=true&theme=dracula" width="360" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=wgblikeW&layout=compact&show_icons=true&theme=dracula" width="360" align="right">  
+
 
 <!--START_SECTION:waka-->
 ```text
