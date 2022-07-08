@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently majored in Information Security!! ...
-- 🌱 I’m currently learning Hacking and playing CTF.
+- 🌱 Building Interesting Security Platform on Cloud.
 - 📫 My Blog: http://p1nant0m.com/
 - 🐹 Gopher, looking for some areas related to security.
 - 🥸 I'm currently working on Cloud Native Security and building distributed system.
