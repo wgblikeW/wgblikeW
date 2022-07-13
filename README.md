@@ -29,3 +29,13 @@ Makefile     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+Lecture's labs that I have implemented. 
+- 🖥️ [MIT-6.824-Distributed-System](https://github.com/wgblikeW/6.824-2021) - Key-Value Store based on Raft implementation - `Distributed System` `Raft` `Key-Value Store`
+- 🦝 [apollo](https://github.com/wgblikeW/apollo) - Simple KDC Communication examples for lecture's design - `KDC` `CLI` `Encryption`
+- ✨ [reportUploadSys](https://github.com/wgblikeW/reportUploadSys) - Backend of student reportUploadSys - `file upload` `JWT Authentication`
+- 🐻 [reportUploadSysFronted](https://github.com/wgblikeW/reportUploadSysFronted) - Fronted of stduent reportUploadSys - `Vue` `ElementUI`
+
+Projects that I have made.
+- 💫 Hera WIP
+- 🦄 xdp-tracing WIP
