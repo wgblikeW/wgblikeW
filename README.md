@@ -38,5 +38,5 @@ Lecture's labs that I have implemented.
 
 Projects that I have made.
 - 💫 Hera WIP
-- 🦄 xdp-tracing WIP
+- 🦄 xdp-tracing - Distributed System for Network Tracing and logging Aggregator with anomaly detection and invasion defense. `eBPF` `Gin` `Etcd` `gRPC` `Redis`
 - 🐨 koala WIP
