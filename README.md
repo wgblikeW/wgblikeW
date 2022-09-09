@@ -33,7 +33,3 @@ Lecture's labs that I have implemented.
 - ✨ [reportUploadSys](https://github.com/wgblikeW/reportUploadSys) - Backend of student reportUploadSys - `file upload` `JWT Authentication`
 - 🐻 [reportUploadSysFronted](https://github.com/wgblikeW/reportUploadSysFronted) - Fronted of stduent reportUploadSys - `Vue` `ElementUI`
 - 🦄 [xdp-tracing](https://github.com/wgblikeW/xdp-tracing) - Distributed System for Network Tracing and logging Aggregator with anomaly detection and invasion defense. `eBPF` `Gin` `Etcd` `gRPC` `Redis`
-
-Projects that I have made.
-- 💫 Hera WIP
-- 🐨 koala WIP
