@@ -38,4 +38,4 @@ Lecture's labs that I have implemented.
 - ✨ [reportUploadSys](https://github.com/wgblikeW/reportUploadSys) - Backend of student reportUploadSys - `file upload` `JWT Authentication`
 - 🐻 [reportUploadSysFronted](https://github.com/wgblikeW/reportUploadSysFronted) - Fronted of stduent reportUploadSys - `Vue` `ElementUI`
 - 🦄 [xdp-tracing](https://github.com/wgblikeW/xdp-tracing) - Distributed System for Network Tracing and logging Aggregator with anomaly detection and invasion defense. `eBPF` `Gin` `Etcd` `gRPC` `Redis`
-- 🍸 [gin-gin](https://github.com/wgblikeW/gin-gin) - Playground for implementing some cool features in cloud native. - `Cloud Navtive` `Gin` `OPA`
+- 🍸 [gin-gin](https://github.com/wgblikeW/gin-gin) - Playground for implementing some cool features in cloud native. - `Cloud Native` `Gin` `OPA`
