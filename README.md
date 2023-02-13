@@ -1,4 +1,4 @@
-<img src="https://github.com/wgblikeW/blog-imgs/blob/main/header_opensource.png?raw=true" align="center"> 
+<img src="https://image.p1nant0m.com/header_opensource.png" align="center"> 
 
 ### Greetings From P1nant0m!!! 👋
 
