@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2025 - To: 13 July 2025
+From: 13 July 2025 - To: 20 July 2025
 
 No activity tracked
 ```
