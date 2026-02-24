@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Security Engineer interested in Security Observability and combined advanced technology for Security Operation ...
 - 🌱 Building Interesting Security Platform in Cloud Native Style.
-- 📫 My Blog: https://p1nant0m.com/
+- 📫 My Blog: https://p1nant0m.xyz/
 - 🐹 Gopher, looking for some areas related to security.
 - 🥸 I'm currently working on Image Vulnerabilites Scanning and Managements Platform and Container Security Platform.
 - 👀 Not sure about where AI will lead us to.
